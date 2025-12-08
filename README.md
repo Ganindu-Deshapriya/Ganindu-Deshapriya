@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Ganindu-Deshapriya/Ganindu-Deshapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
 🔭 I’m currently An Undergraduate reading BComp Hons in Computer Science<br>🌱 I’m currently learning and interested in AI, ML and web and cloud technologies
 
 
